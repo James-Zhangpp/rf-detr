@@ -229,3 +229,4 @@ docs/cookbooks/export_tensorrt/
 
 # MacOS files
 .DS_Store
+/tools/dataset/
